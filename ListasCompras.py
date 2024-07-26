@@ -2,5 +2,6 @@
 # elementos.
 
 lista_compras = ["huevos", "pan", "leche"]
+
 for lista in lista_compras:
     print(lista)

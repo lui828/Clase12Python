@@ -1,9 +1,7 @@
 # cree una lista de materias del tecnologico
 # e imprima el resultado.
 
-
 lista_materias = ["mate", "lenguje", "quimica"]
-
 
 for materia in lista_materias:
     print(materia)
